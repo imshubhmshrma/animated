@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 @IBDesignable
-class DesignableUITextField: UITextField {
+class AnimatedTextField: UITextField {
     
     // Provides left padding for images
     override func leftViewRect(forBounds bounds: CGRect) -> CGRect {
