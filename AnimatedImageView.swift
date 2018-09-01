@@ -1,5 +1,5 @@
 //
-//  RoundableImageView.swift
+//  AnimatedImageView.swift
 //  
 //
 //  Created by Shubham on 08/08/18.
@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 @IBDesignable
-class RoundableImageView: UIImageView {
+class AnimatedImageView: UIImageView {
     
     @IBInspectable var cornerRadius : CGFloat = 0.0{
         didSet{
