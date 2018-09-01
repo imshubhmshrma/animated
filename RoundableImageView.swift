@@ -1,6 +1,6 @@
 //
 //  RoundableImageView.swift
-//  influencerNetwork
+//  
 //
 //  Created by Shubham on 08/08/18.
 //  Copyright © 2018 Shubham. All rights reserved.
@@ -62,3 +62,13 @@ class RoundableImageView: UIImageView {
     }
     
 }
+
+
+/*
+How to use 
+Add this class to your code 
+And then in storyboard , give this class to image view to which u want to looks circlar , we can also give the border color , border width, and corner radius also if u dont want a circular 
+
+Thank You
+
+*/
